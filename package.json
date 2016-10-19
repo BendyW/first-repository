@@ -1,0 +1,25 @@
+{
+  "name": "first-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BendyW/first-repository.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BendyW/first-repository/issues"
+  },
+  "homepage": "https://github.com/BendyW/first-repository#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.1",
+    "path": "^0.12.7"
+  }
+}
